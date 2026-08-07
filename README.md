@@ -1,10 +1,11 @@
 # Herambeswar Mandadapu
 Electronics & Communication Engineer | Embedded Systems & IoT Developer | RF Systems Enthusiast
 
-[![Followers](https://img.shields.io/github/followers/mandadapuherambeswar-ux?label=Follow&style=social)](https://github.com/mandadapuherambeswar-ux)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandadapuherambeswar-ux&layout=compact&theme=default)](https://github.com/mandadapuherambeswar-ux)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mandadapuherambeswar-ux&show_icons=true&theme=default)](https://github.com/mandadapuherambeswar-ux)
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008080?style=for-the-badge&logo=freertos&logoColor=white)
+![AWS IoT](https://img.shields.io/badge/AWS%20IoT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ---
 
 ## About
