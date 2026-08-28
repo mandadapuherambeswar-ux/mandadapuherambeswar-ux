@@ -1,78 +1,119 @@
-# Herambeswar Mandadapu
-Electronics & Communication Engineer | Embedded Systems & IoT Developer | RF Systems Enthusiast
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008080?style=for-the-badge&logo=freertos&logoColor=white)
-![AWS IoT](https://img.shields.io/badge/AWS%20IoT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
----
+# ⚡ Herambeswar Mandadapu
+### **Embedded Systems Engineer | Firmware & Edge AI Developer | IoT Architect**
 
-## About
-I am an Electronics & Communication Engineering graduate focused on designing embedded systems, IoT architectures, wireless communication systems, and RF signal optimization. I enjoy building robust firmware, integrating sensors and connectivity, and delivering practical, power-efficient solutions for real-world problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/herambeswar-mandadapu-5a977a385)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandadapuherambeswar-ux)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandadapuherambeswar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mandadapuherambeswar-ux/liquid-glass-portfolio)
 
-- 📍 Vijayawada, India
-- 🔭 Currently open to entry-level roles in Embedded Systems, IoT, and Electronics Engineering
-- ⚡ Interests: RF systems, low-power embedded design, sensor fusion, IoT cloud integrations
+<br/>
 
----
+> *Electronics & Communication Engineering graduate specializing in real-time embedded firmware, hardware-in-the-loop (HIL) automation, low-power IoT architectures, and industrial bus communications (CAN/SPI/I2C/UART).*
 
-## Skills & Tools
-- Programming: C, C++, Embedded C, Python, MATLAB  
-- Microcontrollers & SoCs: ESP32, STM32  
-- Embedded protocols: UART, SPI, I2C, RFID  
-- Cloud & IoT: AWS IoT, ThingSpeak  
-- Tools & Practices: Git, Debugging (JTAG/SWD), Power management, PCB prototyping, Serial/logic analysis
+</div>
 
 ---
 
-## Featured Projects
-- **smart-agriculture-iot-ml** — End-to-end IoT smart agriculture with ML-based predictive irrigation  
-  https://github.com/mandadapuherambeswar-ux/smart-agriculture-iot-ml  
-  Role: Author & lead developer — Firmware on ESP32, data pipeline in Python, ThingSpeak integration, ML for irrigation prediction.
+### 🛠️ Technical Competencies
 
-- **rfid-access-control** — Secure microcontroller-based RFID authentication with real-time credential validation and threat scoring  
-  https://github.com/mandadapuherambeswar-ux/rfid-access-control  
-  Role: Author — Firmware and access logic, secure credential handling, real-time validation.
-
-- **automatic-hand-sanitizer** — Touchless IR sensor dispenser optimized with duty-cycle power management  
-  https://github.com/mandadapuherambeswar-ux/automatic-hand-sanitizer  
-  Role: Author — Sensor integration, low-power firmware, actuation control.
-
-(See the repositories above for code, schematics, and setup instructions.)
-
----
-
-## Certifications
-- AWS Certified Cloud Practitioner  
-- Tessolve Level 1 — Embedded & IoT  
-- Tessolve Level 2 — IIoT Programming
-
----
-
-## How I Work
-- Start with requirements and constraints (power, cost, connectivity).  
-- Prototype quickly (breadboard/DevKit + firmware).  
-- Iterate on hardware + firmware together to meet performance and power targets.  
-- Integrate cloud telemetry and analytics for remote monitoring and ML where appropriate.  
-- Validate with tests, logging, and field trials.
-
----
-
-## Open to
-- Entry-level roles: Embedded Systems, Firmware Development, IoT Engineering, RF/Communication Systems  
-- Collaboration on prototyping, proof-of-concepts, and early-stage IoT products
-
----
-
-## Contact
-- Email: mandadapuherambeswar@gmail.com  
-- LinkedIn: https://linkedin.com/in/herambeswar-mandadapu-5a977a385
+<table>
+  <tr>
+    <td width="30%"><strong>Microcontrollers & SoCs</strong></td>
+    <td>
+      <code>STM32 (ARM Cortex-M4/M3/M0)</code> • <code>ESP32 / ESP32-CAM</code> • <code>ESP8266</code> • <code>AVR ATmega328P</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>Firmware & RTOS</strong></td>
+    <td>
+      <code>FreeRTOS (Tasks, Queues, Mutexes, Semaphores)</code> • <code>Bare-Metal Embedded C</code> • <code>STM32 HAL / LL</code> • <code>Watchdog / Low-Power Modes</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>Industrial & Hardware Protocols</strong></td>
+    <td>
+      <code>CAN Bus (ISO 11898 / MCP2515)</code> • <code>SPI</code> • <code>I2C</code> • <code>UART/USART</code> • <code>RFID (MFRC522)</code> • <code>GPIO / ADC / DMA</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>Testing, HIL & Diagnostics</strong></td>
+    <td>
+      <code>Automated HIL Testing (PyHIL-Runner)</code> • <code>Logic Analyzer Decoding (UART/I2C/SPI)</code> • <code>Pytest</code> • <code>JTAG/SWD Debugging</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>IoT & Edge Intelligence</strong></td>
+    <td>
+      <code>AWS IoT Core</code> • <code>ThingSpeak Telemetry</code> • <code>Edge AI / Embedded CV</code> • <code>MQTT / HTTP REST</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>Languages & Developer Tools</strong></td>
+    <td>
+      <code>Embedded C</code> • <code>C++17</code> • <code>Python 3</code> • <code>PlatformIO</code> • <code>STM32CubeIDE</code> • <code>CMake</code> • <code>Git</code> • <code>KiCad</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Quick Links
-- GitHub: https://github.com/mandadapuherambeswar-ux
-- Portfolio / Resume: (add link here if available)
+### 🚀 Flagship Engineering Projects
+
+#### 1. [Edge-AI-Safety-Node](https://github.com/mandadapuherambeswar-ux/Edge-AI-Safety-Node)
+> **Multi-MCU Edge Computing Node with Automotive CAN Bus Integration**
+* **Architecture:** STM32F401 (Supervisory Controller) + ESP32-CAM (Edge Vision Inference) + MCP2515 (CAN Bus Controller over SPI).
+* **Key Features:** Real-time visual anomaly detection transmitted over industrial CAN Bus (500 kbps) with deterministic fault management and UART diagnostics.
+* **Tech Stack:** `C++`, `STM32`, `ESP32-CAM`, `CAN Bus`, `SPI`, `Embedded AI`.
 
 ---
+
+#### 2. [PyHIL-Runner](https://github.com/mandadapuherambeswar-ux/PyHIL-Runner)
+> **Automated Hardware-in-the-Loop (HIL) Test & Validation Framework**
+* **Architecture:** Python-driven serial test harness validating live microcontroller firmware against boundary cases, protocol compliance, and fault injection.
+* **Key Features:** Pytest-integrated test suites, automated pass/fail assertion reporting, UART telemetry parsing, and regression testing pipelines.
+* **Tech Stack:** `Python 3`, `Pytest`, `Serial/UART`, `Embedded C`, `CI/CD`.
+
+---
+
+#### 3. [PyLogic-Sniffer](https://github.com/mandadapuherambeswar-ux/PyLogic-Sniffer)
+> **Microcontroller-Based Digital Logic Sniffer & Protocol Analyzer**
+* **Architecture:** High-speed GPIO edge sampling engine paired with a desktop analysis GUI for multi-protocol waveform decoding.
+* **Key Features:** Real-time protocol decoding for UART, I2C, and SPI; Run-Length Encoding (RLE) compression for memory-efficient trace capture.
+* **Tech Stack:** `Python`, `Tkinter / PyQt`, `Microcontroller Firmware`, `UART`, `SPI`, `I2C`.
+
+---
+
+#### 4. [Smart Agriculture IoT & ML](https://github.com/mandadapuherambeswar-ux/smart-agriculture-iot-ml)
+> **Closed-Loop Agricultural Telemetry with Predictive Machine Learning Irrigation**
+* **Architecture:** ESP32 sensor node streaming soil moisture and environmental metrics to cloud telemetry with ML-based water requirement forecasting.
+* **Key Features:** Low-power sleep cycles, ThingSpeak cloud visualization, and predictive decision modeling.
+* **Tech Stack:** `ESP32`, `Embedded C++`, `Python`, `Machine Learning`, `ThingSpeak`, `Sensors`.
+
+---
+
+### 📜 Certifications & Credentials
+
+* 🏅 **AWS Certified Cloud Practitioner** — Amazon Web Services
+* 🏅 **Tessolve Level 2:** Industrial IoT (IIoT) Programming & Architecture
+* 🏅 **Tessolve Level 1:** Embedded Systems & IoT Fundamentals
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mandadapuherambeswar-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Herambeswar's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandadapuherambeswar-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandadapuherambeswar-ux&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & Developed by <strong>Herambeswar Mandadapu</strong> • Vijayawada, India</sub>
+</div>
