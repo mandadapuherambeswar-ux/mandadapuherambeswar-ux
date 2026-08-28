@@ -101,15 +101,14 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Profile Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandadapuherambeswar-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Herambeswar's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandadapuherambeswar-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandadapuherambeswar-ux&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[![Profile Views](https://komarev.com/ghpvc/?username=mandadapuherambeswar-ux&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mandadapuherambeswar-ux)
+[![Repositories](https://img.shields.io/badge/Public%20Repositories-9-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandadapuherambeswar-ux?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/mandadapuherambeswar-ux?style=for-the-badge&logo=github&labelColor=181717&color=0A66C2)](https://github.com/mandadapuherambeswar-ux?tab=followers)
+
 </div>
 
 ---
